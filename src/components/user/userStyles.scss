@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.loading {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.user__container {
+    padding: 0 10px;
+
+    .icon {
+        width: 60px;
+        border-radius: 50%;
+    }
+}
